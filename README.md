@@ -20,8 +20,8 @@ The goal of this project is to analyze the Global Superstore dataset to understa
 - Approximately **24% of all orders are loss-making**, indicating that 1 in 4 transactions is unprofitable.
 - There is a strong negative correlation (-0.85) between **discount levels and profit margin**.
 - Profit margins remain positive up to approximately **20-25% discount**, beyond which they turn negative.
--Orders with 30%+ discounts represent only 14% of sales volume but generate the vast majority of total losses.
--The **"Tables"** sub-category is the primary driver of loss, proving to be highly sensitive to aggressive discounting (turning unprofitable only above 30% discount).
+- Orders with 30%+ discounts represent only 14% of sales volume but generate the vast majority of total losses.
+- The **"Tables"** sub-category is the primary driver of loss, proving to be highly sensitive to aggressive discounting (turning unprofitable only above 30% discount).
 - Shipping modes and customer segments show consistent margins, confirming that profitability issues are driven by pricing strategy, not operational costs.
 
 - ## Business Recommendations
