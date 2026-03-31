@@ -34,7 +34,7 @@ The goal of this project is to analyze the Global Superstore dataset to understa
 ![Dashboard Page 1](dashboard1.png)
 ![Dashboard Page 2](dashboard2.png)
 
-🔗 **[Click here to view the detailed Python Analysis & Data Cleaning Report (HTML)](analysis_cleaning.html)**
+🔗 **[Click here to view the Analysis Report (PDF)](Python_Analysis_Report.pdf)**
 
 ---
 Developed by [Ceren Alagoz] - [(https://www.linkedin.com/in/ceren-alagoz-157a4b256/)]
